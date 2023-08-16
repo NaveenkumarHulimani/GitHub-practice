@@ -1,0 +1,18 @@
+body {
+    background-color: skyblue;
+}
+
+#header {
+    color: red;
+    border: 1px solid black;
+    text-align: center;
+}
+#para {
+    color: rgb(0, 255, 102);
+    text-align: center;
+}
+
+#button {
+  text-align: center;
+  
+}
